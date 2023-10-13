@@ -13,6 +13,8 @@
 #ifndef		__System_Control_
 #define		__System_Control_
 
+// Test Only!!
+
 extern void System_Control(char *pCommand_Data);
 extern void SendToHost(char *pData, unsigned char Length);
 			
